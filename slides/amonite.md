@@ -1,3 +1,3 @@
-##  Amonite
+##  Ammonite
 
-This is a new Markdown slide
+![Amonite](resources/Ammonite.svg)

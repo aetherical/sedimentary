@@ -1,3 +1,3 @@
 ##  What&#39;s a Fossil?
 
-This is a new Markdown slide
+<p class="fragment grow">Something left behind by a living thing</p>
