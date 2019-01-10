@@ -1,3 +1,3 @@
-##  Sea Fern
+##  Sea Lily
 
-This is a new Markdown slide
+![Sea Lily](resources/sea-lily.jpg)

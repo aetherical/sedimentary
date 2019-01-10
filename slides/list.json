@@ -1,19 +1,104 @@
 [
-    "index.md",
-    "what-s-a-fossil.md",
-    "where-can-you-find-them.md",
-    "why-are-there-fossils-near-here.md",
-    "field-trip.md",
-    "types-of-fossils.md",
-    "sedimentary.md",
-    "limestone.md",
-    "shale.md",
-    "types-of-fossils.md",
-    "safety.md",
-    "shells.md",
-    "amonite.md",
-    "trilobite.md",
-    "coral.md",
-    "sea-fern.md",
-    "coal.md"
+    {
+        "filename": "index.md"
+    },
+    "your-speakers.md",
+    "meet-the-artist.md",
+    "matt-williams.md",
+    "nom.md",
+    "chloride.md",
+    "finding-fossils-in-your-backyard.md",
+    {
+        "filename": "what-s-a-fossil.html",
+        "attr": {}
+    },
+    "remains.md",
+    "remains2.md",
+    "remains3.md",
+    "impressions.md",
+    "impressions-2.md",
+    "traces.md",
+    "traces2.md",
+    {
+        "filename": "types-of-fossils.html",
+        "attr": {}
+    },
+    {
+        "filename": "shells.md",
+        "attr": {}
+    },
+    {
+        "filename": "amonite.md",
+        "attr": {}
+    },
+    {
+        "filename": "trilobite.md",
+        "attr": {}
+    },
+    {
+        "filename": "coral.md",
+        "attr": {}
+    },
+    {
+        "filename": "sea-fern.md",
+        "attr": {}
+    },
+    {
+        "filename": "coal.md",
+        "attr": {}
+    },
+    {
+        "filename": "sedimentary.md",
+        "attr": {}
+    },
+    "is-lasagna-sedimentary.md",
+    {
+        "filename": "limestone.md",
+        "attr": {}
+    },
+    {
+        "filename": "shale.md",
+        "attr": {}
+    },
+    "shale2.md",
+    "sandstone.md",
+    {
+        "filename": "where-can-you-find-them.md",
+        "attr": {}
+    },
+    "ravines.md",
+    "streams-creeks-and-riverbeds.md",
+    "exposed-rock3.md",
+    "exposed-rock.md",
+    "exposed-rock2.md",
+    "parks.md",
+    {
+        "filename": "why-are-there-fossils-near-here.md",
+        "attr": {}
+    },
+    {
+        "filename": "field-trip.md",
+        "attr": {}
+    },
+    {
+        "filename": "field-trip2.md",
+        "attr": {}
+    },
+    "field-trip-3.md",
+    "field-trip-4.md",
+    {
+        "filename": "safety.md",
+        "attr": {}
+    },
+    "don-t-trespass.md",
+    "ask-permission.md",
+    "take-a-buddy.md",
+    "careful-climbing.md",
+    "slippery-when-wet.md",
+    {
+        "filename": "demo-identification.md",
+        "attr": {}
+    },
+    "bye.md",
+    "resources.md"
 ]

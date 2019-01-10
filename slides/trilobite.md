@@ -1,3 +1,3 @@
 ##  Trilobite
 
-This is a new Markdown slide
+![Trilobite](resources/kuut6bine-Trilobite-Paraceraurus.svg)

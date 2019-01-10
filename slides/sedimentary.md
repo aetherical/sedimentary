@@ -1,3 +1,3 @@
 ##  Sedimentary
 
-This is a new Markdown slide
+![Layers!](resources/Fossil-Layers.svg)

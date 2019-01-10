@@ -1,3 +1,3 @@
-##  Field Trip
+##  Field Trip to Trammel Fossil Park
 
-This is a new Markdown slide
+![We're Here!](resources/fieldtrip.jpg "We're Here! Wake Up Sleepyhead!")

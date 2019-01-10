@@ -1,3 +1,3 @@
 ##  Shells
 
-This is a new Markdown slide
+![Shells and More!](resources/fossil-river-shale.jpg)

@@ -1,3 +1,3 @@
 ##  Where can you find them?
 
-This is a new Markdown slide
+![Sodium looking at a map](resources/map.png)

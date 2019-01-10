@@ -1,3 +1,3 @@
 ##  Safety
 
-This is a new Markdown slide
+![Safety](resources/safety-dance.jpeg)
